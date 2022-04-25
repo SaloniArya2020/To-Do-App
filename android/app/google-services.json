@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "166768634281",
+    "project_id": "todo-d63ce",
+    "storage_bucket": "todo-d63ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166768634281:android:399a1da3d2892aa14cbcb8",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166768634281-k7tuck7jv8gukts0bb1tfhmmihvmn22s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MLTxOk7_bQMMwIZRfOV5fe5FniSgik0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166768634281-k7tuck7jv8gukts0bb1tfhmmihvmn22s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166768634281:android:925eb15ae37907da4cbcb8",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166768634281-m71hl2cuhcisiu3k279qqb8t4bjse51l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todolist",
+            "certificate_hash": "1674b792345da1fa2720dba9814821eb3b4f33a5"
+          }
+        },
+        {
+          "client_id": "166768634281-k7tuck7jv8gukts0bb1tfhmmihvmn22s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MLTxOk7_bQMMwIZRfOV5fe5FniSgik0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166768634281-k7tuck7jv8gukts0bb1tfhmmihvmn22s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
